@@ -1,0 +1,31 @@
+login Alice
+deposit 500
+withdraw 100
+transfer bob 700
+transfer bob 150
+login Charlie
+deposit 100
+withdraw 200
+transfer diana 150
+transfer diana 50
+login Eve
+deposit 300
+transfer Frank 100
+logout
+login Frank
+withdraw 50
+transfer Eve 30
+logout
+login Eve
+Deposit 200
+login bob
+logout
+login Grace
+deposit 100
+withdraw 0
+transfer henry 100.5
+transfer henry 10.5
+login Iris
+deposit 75
+withdraw 72
+transfer jack 6
